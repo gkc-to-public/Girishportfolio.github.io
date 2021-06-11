@@ -1,0 +1,250 @@
+{
+  "main": {
+    "name": "GIRISH E",
+    "description": "I am a web development engineer,Business Analyst and Certified Handwriting Analyst",
+    "image": "girishprofilepic.jpg",
+    "bio": "🏫 Girish has received his master degree in computer application from the Cambridge institute of Technology, Bangalore. 😎 Not only the tech stuff, Girish loves to read mindset of people's through by Analysing Handwriting of a person. ✈🚗 Loves traveling and exploring adventures. 👨‍💼 Prograaming is my passion which brings me in to Cambridge institute of Technology, where we huge importance was given to design💡 innovation🤔💭 and creativity🖊️ With all the resources available I learned programming🖥️, higher mathematics📈, In my professional career👨‍💼, this passion stays with me all the time and brought to me the dedication to achieve🎯 what I am looking for. This being the tip of an iceberg🏔️, there is still a long way to go and learn📖 from each step in life.I wish to follow this passion for my entire life. ",
+    "contactmessage": "You can contact me by filling the details in the given box .",
+    "email": "girishgangavara@gmail.com",
+    "phone": "+91 7975075842",
+    "github": "https://bit.ly/3vfhCuc",
+    "project": "https://bit.ly/3cCbANQ",
+    "address": {
+      "street": "HOSKOTE",
+      "city": "BANGALORE",
+      "state": "KARNATAKA",
+      "zip": "562114"
+    },
+
+    "resumedownload": "https://bit.ly/3xcKUep",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://bit.ly/2SpnyU8",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/girishe-gkc",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://bit.ly/3zgpPSi",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gkc-to-public",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "MY SKILLS",
+    "education": [
+      {
+        "school": "VTU University",
+        "degree": "Master OF Computer Applications",
+        "graduated": "August 2020",
+        "description": "Graduated with 7.2/10 CGPA from Visvesvaraya Technological University."
+      },
+      {
+        "school": "Silicon City College, K R Puram",
+        "degree": "Bachelor of computer applications.",
+        "graduated": "Jun 2012 - 2015 Mar",
+        "description": "Graduated with 5.5/10 CGPA from Bangalore University."
+      }
+    ],
+    "work": [
+      {
+        "company": "Waterlabs AI Enabled Technology",
+        "title": "Business Analyst ",
+        "years": "Jan - 2021 - Present",
+        "description": "Here at Waterlabs AI we take immense pride in having an amazing work culture and some deeply embedded values. As a team, these values drive us. By incorporating them into our daily routine, we bring value to our client’s business. These values enable us to gain proficiency in technical skills, build long-lasting relationships with clients and employees, and carve our own niche"
+      },
+      {
+        "company": "Indian Institute of Graphology",
+        "title": "Certified Handwriting Analyst And Trainer",
+        "years": "October 2016 - January 2019",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "CERTIFIED HANDWRITING ANALYST",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Grapho-Therapy ",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "07.PNG"
+      },
+      {
+        "title": "Graduated as Excelien",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "08.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "09.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "A React based resume website template",
+        "image": "10.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "11.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "11.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "13.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "14.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "15.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "A React based resume website template",
+        "image": "16.PNG"
+      },
+      {
+        "title": "Excel Plus ",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "17.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "18.PNG"
+      },
+      {
+        "title": "Group Leader",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "19.PNG"
+      },
+      {
+        "title": "Sports Day",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "20.PNG"
+      },
+      {
+        "title": "Sports Day",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "21.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "22.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "23.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "24.PNG"
+      },
+      {
+        "title": "Assisting Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "25.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "26.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "27.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "28.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "29.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "30.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "31.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "32.PNG"
+      },
+      {
+        "title": "Health,Wealth,Happiness ",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "33.PNG"
+      },
+      {
+        "title": "Management Team Member",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "34.PNG"
+      },
+      {
+        "title": "Certified Handwriting Analyst",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "35.PNG"
+      },
+      {
+        "title": "Certified Handwriting Analyst",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "36.PNG"
+      }
+    ]
+  }
+}
